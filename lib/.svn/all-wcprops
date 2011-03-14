@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ea/!svn/ver/10172/branches/stable/lib
+END
+zlib-1.2.3
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ea/!svn/ver/9947/branches/stable/lib/zlib-1.2.3
+END
+libmysql.lib
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ea/!svn/ver/9304/branches/stable/lib/libmysql.lib
+END
+mysql-5.0.20
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ea/!svn/ver/9304/branches/stable/lib/mysql-5.0.20
+END
+zdll.lib
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ea/!svn/ver/4177/branches/stable/lib/zdll.lib
+END
+pcre-7.0
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ea/!svn/ver/10172/branches/stable/lib/pcre-7.0
+END
+pcre.lib
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ea/!svn/ver/10172/branches/stable/lib/pcre.lib
+END

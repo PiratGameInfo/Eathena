@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 75
+*.exe
+conf
+save
+*.stackdump
+online.txt
+online.html
+*.dll
+*.pdb
+*.ncb
+*.suo
+
+END

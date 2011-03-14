@@ -1,0 +1,64 @@
+9
+
+dir
+14743
+http://svn.eathena.ws/svn/ea/branches/stable/src
+http://svn.eathena.ws/svn/ea
+
+
+
+2010-04-26T13:02:38.892332Z
+14290
+skotlex
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+25c455a3-652e-4746-8d57-d9ef5c14f545
+
+zlib
+dir
+
+plugins
+dir
+
+ladmin
+dir
+
+txt-converter
+dir
+
+mysql
+dir
+
+login_sql
+dir
+
+common
+dir
+
+login
+dir
+
+char_sql
+dir
+
+char
+dir
+
+map
+dir
+
+tool
+dir
+

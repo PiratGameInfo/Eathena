@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ea/!svn/ver/14287/branches/stable/src/char_sql
+END
+int_homun.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ea/!svn/ver/13032/branches/stable/src/char_sql/int_homun.c
+END
+int_mail.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ea/!svn/ver/12827/branches/stable/src/char_sql/int_mail.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ea/!svn/ver/13034/branches/stable/src/char_sql/Makefile.in
+END
+int_pet.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ea/!svn/ver/13032/branches/stable/src/char_sql/int_pet.c
+END
+int_homun.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ea/!svn/ver/12866/branches/stable/src/char_sql/int_homun.h
+END
+int_pet.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ea/!svn/ver/11419/branches/stable/src/char_sql/int_pet.h
+END
+int_party.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ea/!svn/ver/13032/branches/stable/src/char_sql/int_party.c
+END
+int_quest.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ea/!svn/ver/13032/branches/stable/src/char_sql/int_quest.c
+END
+int_auction.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ea/!svn/ver/13032/branches/stable/src/char_sql/int_auction.c
+END
+char.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ea/!svn/ver/14287/branches/stable/src/char_sql/char.c
+END
+int_party.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ea/!svn/ver/11419/branches/stable/src/char_sql/int_party.h
+END
+int_guild.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ea/!svn/ver/13032/branches/stable/src/char_sql/int_guild.c
+END
+int_storage.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ea/!svn/ver/13095/branches/stable/src/char_sql/int_storage.c
+END
+int_quest.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ea/!svn/ver/13032/branches/stable/src/char_sql/int_quest.h
+END
+int_auction.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ea/!svn/ver/12827/branches/stable/src/char_sql/int_auction.h
+END
+inter.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ea/!svn/ver/13032/branches/stable/src/char_sql/inter.c
+END
+char.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ea/!svn/ver/13032/branches/stable/src/char_sql/char.h
+END
+int_guild.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ea/!svn/ver/11419/branches/stable/src/char_sql/int_guild.h
+END
+int_storage.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ea/!svn/ver/13032/branches/stable/src/char_sql/int_storage.h
+END
+inter.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ea/!svn/ver/12621/branches/stable/src/char_sql/inter.h
+END
+int_mail.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ea/!svn/ver/13032/branches/stable/src/char_sql/int_mail.c
+END

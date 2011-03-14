@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ea/!svn/ver/13095/branches/stable/src/txt-converter
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ea/!svn/ver/11967/branches/stable/src/txt-converter/Makefile.in
+END
+char-converter.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ea/!svn/ver/13095/branches/stable/src/txt-converter/char-converter.c
+END
+login-converter.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ea/!svn/ver/13050/branches/stable/src/txt-converter/login-converter.c
+END

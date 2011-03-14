@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ea/!svn/ver/10956/branches/stable/src/mysql
+END
+my_pthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ea/!svn/ver/9614/branches/stable/src/mysql/my_pthread.h
+END
+mysql-5.0.20
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ea/!svn/ver/10956/branches/stable/src/mysql/mysql-5.0.20
+END
+my_alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ea/!svn/ver/9614/branches/stable/src/mysql/my_alloc.h
+END
+m_ctype.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ea/!svn/ver/9614/branches/stable/src/mysql/m_ctype.h
+END
+config-win.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ea/!svn/ver/9614/branches/stable/src/mysql/config-win.h
+END
+mysql_com.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ea/!svn/ver/9614/branches/stable/src/mysql/mysql_com.h
+END
+mysql.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ea/!svn/ver/9614/branches/stable/src/mysql/mysql.h
+END
+my_global.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ea/!svn/ver/9614/branches/stable/src/mysql/my_global.h
+END
+typelib.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ea/!svn/ver/9614/branches/stable/src/mysql/typelib.h
+END
+mysql_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ea/!svn/ver/9614/branches/stable/src/mysql/mysql_version.h
+END
+raid.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ea/!svn/ver/9614/branches/stable/src/mysql/raid.h
+END
+my_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ea/!svn/ver/9614/branches/stable/src/mysql/my_list.h
+END
+mysql_time.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ea/!svn/ver/9614/branches/stable/src/mysql/mysql_time.h
+END
+my_sys.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ea/!svn/ver/9614/branches/stable/src/mysql/my_sys.h
+END
+my_dbug.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ea/!svn/ver/9614/branches/stable/src/mysql/my_dbug.h
+END

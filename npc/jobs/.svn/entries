@@ -1,0 +1,89 @@
+9
+
+dir
+14743
+http://svn.eathena.ws/svn/ea/branches/stable/npc/jobs
+http://svn.eathena.ws/svn/ea
+
+
+
+2008-10-14T03:48:35.055433Z
+13290
+Yommy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+25c455a3-652e-4746-8d57-d9ef5c14f545
+
+2-1
+dir
+
+2-1a
+dir
+
+2-2
+dir
+
+2-2a
+dir
+
+1-1e
+dir
+
+novice
+dir
+
+2-1e
+dir
+
+valkyrie.txt
+file
+
+
+
+
+2011-03-14T18:32:50.000000Z
+5a7ce352f996b5092508fe3de11f8239
+2008-04-25T17:34:29.476342Z
+12651
+toms
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13145
+
+2-2e
+dir
+
+1-1
+dir
+

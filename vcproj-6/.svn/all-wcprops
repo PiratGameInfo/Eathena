@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ea/!svn/ver/13032/branches/stable/vcproj-6
+END
+login-server_sql.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ea/!svn/ver/11414/branches/stable/vcproj-6/login-server_sql.dsp
+END
+login-server_txt.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ea/!svn/ver/11927/branches/stable/vcproj-6/login-server_txt.dsp
+END
+char-server_sql.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ea/!svn/ver/13032/branches/stable/vcproj-6/char-server_sql.dsp
+END
+char-server_txt.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ea/!svn/ver/10438/branches/stable/vcproj-6/char-server_txt.dsp
+END
+map-server_sql.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ea/!svn/ver/13032/branches/stable/vcproj-6/map-server_sql.dsp
+END
+map-server_txt.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ea/!svn/ver/13032/branches/stable/vcproj-6/map-server_txt.dsp
+END

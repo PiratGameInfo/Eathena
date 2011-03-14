@@ -1,0 +1,71 @@
+9
+
+dir
+14743
+http://svn.eathena.ws/svn/ea/branches/stable/npc/eamobs
+http://svn.eathena.ws/svn/ea
+
+
+
+2008-01-25T20:30:28.690182Z
+12140
+ultramage
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+25c455a3-652e-4746-8d57-d9ef5c14f545
+
+dungeons
+dir
+
+fields
+dir
+
+jro
+dir
+
+Whats done.txt
+file
+
+
+
+
+2011-03-14T18:32:52.000000Z
+40bba64f5338eeadcc6ee818d3df6288
+2008-01-20T19:40:31.691162Z
+12108
+ultramage
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2036
+

@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 85
+Login.dev
+Login.layout
+Makefile.win
+MAP-SE~1.layout
+Map-Server.dev
+Map-Server.layout
+
+END

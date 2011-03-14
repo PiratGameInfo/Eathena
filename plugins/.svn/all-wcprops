@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ea/!svn/ver/13032/branches/stable/plugins
+END
+exchndl.dll
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ea/!svn/ver/4360/branches/stable/plugins/exchndl.dll
+END
+dbghelpplug.dll
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ea/!svn/ver/13032/branches/stable/plugins/dbghelpplug.dll
+END
+upnp.dll
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ea/!svn/ver/2299/branches/stable/plugins/upnp.dll
+END

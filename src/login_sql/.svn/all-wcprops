@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ea/!svn/ver/14163/branches/stable/src/login_sql
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ea/!svn/ver/13034/branches/stable/src/login_sql/Makefile.in
+END
+login.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ea/!svn/ver/14163/branches/stable/src/login_sql/login.c
+END
+login.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ea/!svn/ver/14163/branches/stable/src/login_sql/login.h
+END

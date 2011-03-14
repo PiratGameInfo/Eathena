@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ea/!svn/ver/14287/branches/stable/src/char
+END
+int_homun.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ea/!svn/ver/13032/branches/stable/src/char/int_homun.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ea/!svn/ver/13034/branches/stable/src/char/Makefile.in
+END
+int_status.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ea/!svn/ver/11419/branches/stable/src/char/int_status.h
+END
+int_pet.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ea/!svn/ver/13032/branches/stable/src/char/int_pet.c
+END
+int_homun.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ea/!svn/ver/11419/branches/stable/src/char/int_homun.h
+END
+int_pet.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ea/!svn/ver/11419/branches/stable/src/char/int_pet.h
+END
+int_party.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ea/!svn/ver/13032/branches/stable/src/char/int_party.c
+END
+char.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ea/!svn/ver/14287/branches/stable/src/char/char.c
+END
+int_storage.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ea/!svn/ver/13095/branches/stable/src/char/int_storage.c
+END
+int_party.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ea/!svn/ver/11419/branches/stable/src/char/int_party.h
+END
+int_guild.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ea/!svn/ver/13032/branches/stable/src/char/int_guild.c
+END
+inter.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ea/!svn/ver/13032/branches/stable/src/char/inter.c
+END
+char.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ea/!svn/ver/11419/branches/stable/src/char/char.h
+END
+int_storage.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ea/!svn/ver/13095/branches/stable/src/char/int_storage.h
+END
+int_guild.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ea/!svn/ver/11419/branches/stable/src/char/int_guild.h
+END
+inter.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ea/!svn/ver/12824/branches/stable/src/char/inter.h
+END
+int_status.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ea/!svn/ver/14154/branches/stable/src/char/int_status.c
+END
